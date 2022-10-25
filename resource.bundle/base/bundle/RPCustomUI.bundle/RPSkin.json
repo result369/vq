@@ -1,0 +1,273 @@
+{
+    "global": {
+        "mainButton": {
+            "backgroundColor": "#00FFFFFF",
+            "backgroundImage": "face_confirm_button@2x.png",
+            "textColor": "#FFFFFF",
+            "fontSize": 32,
+            "textPadding": {
+                "left": 0,
+                "right": 0,
+                "top": 0,
+                "bottom": 0
+            }
+        }
+    },
+    "native": {
+        "global": {
+            "alertDialog": {
+                "positiveText": {
+                    "textColor": "#8F6AFF",
+                    "fontSize": 32
+                },
+                "negativeText": {
+                    "textColor": "#BFB6FF",
+                    "fontSize": 32
+                },
+                "titleText": {
+                    "textColor": "#333333",
+                    "fontSize": 32
+                },
+                "messageText": {
+                    "textColor": "#333333",
+                    "fontSize": 28
+                }
+            },
+            "navigator": {
+                "closeImageView": {
+                    "src": "face_close_btn@2x.png"
+                }
+            }
+        },
+        "guidePage": {
+            "titleText": {
+                "textColor": "#000000",
+                "fontSize": 40
+            },
+            "messageText": {
+                "textColor": "#666666",
+                "fontSize": 30
+            },
+            "markMessageText": {
+                "textColor": "#4E6AF0",
+                "fontSize": 30
+            },
+            "actionTipText": {
+                "textColor": "#333333",
+                "fontSize": 36
+            },
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            },
+            "privacyTipText": {
+                "textColor": "#999999",
+                "fontSize": 26
+            }
+        },
+        "welcomePage": {
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            },
+            "bannerControl": {
+                "backgroundColor": "#FD521F"
+            }
+        },
+        "privacyPage": {
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            },
+            "logoImageView": {
+                "src": "face_security_icon@2x.png"
+            }
+        },
+
+        "detectPage": {
+            "actionTipText": {
+                "textColor": "#333333",
+                "fontSize": 40
+            },
+            "messageText": {
+                "textColor": "#999999",
+                "fontSize": 32
+            },
+            "detectAnimation": {
+                "warningColor": "#8F6AFF",
+                "loadingColor": "#8F6AFF"
+            }
+        },
+        "resultPage": {
+            "titleText": {
+                "textColor": "#333333",
+                "fontSize": 40
+            },
+            "messageText": {
+                "textColor": "#333333",
+                "fontSize": 30
+            },
+            "markMessageText": {
+                "textColor": "#FF0000",
+                "fontSize": 30
+            },
+            "promptFailImageView": {
+                "src": "face_result_icon_fail@2x.png"
+            },
+            "promptSucceedImageView": {
+                "src": "face_result_icon_ok@2x.png"
+            },
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            }
+        }
+    },
+    "web": {
+        "global": {
+            "alertDialog": {
+                "positiveText": {
+                    "textColor": "#FD521F",
+                    "fontSize": 32
+                },
+                "negativeText": {
+                    "textColor": "#FE9779",
+                    "fontSize": 32
+                }
+            },
+            "stepBarContainer": {
+                  "todoTextColor": "#ffffff",
+                  "todoBackgroundColor": "#BFB6FF",
+                  "currentTextColor": "#ffffff",
+                  "currentBackgroundColor": "#8F6AFF",
+                  "doneTextColor": "#ffffff",
+                  "doneBackgroundColor": "#fd8127"
+            }
+        },
+        "privacyPage": {
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            },
+            "logoImageView": {
+              "src": "web_icon-check-shield@2x.png"
+            }
+        },
+        "guidePage": {
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            },
+            "bannerContainer": {
+                "backgroundColor": "#8F6AFF"
+            }
+        },
+        "identityPage": {
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            }
+        },
+        "photoPage": {
+            "exampleContainer": {
+                "backgroundColor": "#FD521F"
+            },
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            }
+        },
+        "resultPage": {
+            "titleText": {
+                "textColor": "#333333",
+                "fontSize": 32
+            },
+            "messageText": {
+                "textColor": "#333333",
+                "fontSize": 32
+            },
+            "promptFailImageView": {
+                "src": "face_result_icon_fail@2x.png"
+            },
+            "promptSucceedImageView": {
+                "src": "face_result_icon_ok@2x.png"
+            },
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nimEnv</key>
+	<dict>
+		<key>description</key>
+		<string>NIM测试环境</string>
+		<key>dev</key>
+		<string>pre</string>
+		<key>pro</key>
+		<string></string>
+		<key>market</key>
+		<string></string>
+	</dict>
+	<key>baseImageUrl</key>
+	<dict>
+		<key>description</key>
+		<string>图片域名</string>
+		<key>dev</key>
+		<string>https://asset.vqu.show</string>
+		<key>pro</key>
+		<string>https://asset.vqu.show</string>
+		<key>market</key>
+		<string>http://market.vqu.show</string>
+	</dict>
+	<key>baseUrl</key>
+	<dict>
+		<key>description</key>
+		<string>数据接口域名</string>
+		<key>dev</key>
+		<string>http://app.pre.vqu.show</string>
+		<key>pro</key>
+		<string>https://app.vqu.show</string>
+		<key>market</key>
+		<string>http://market.vqu.show</string>
+	</dict>
+</dict>
+</plist>
